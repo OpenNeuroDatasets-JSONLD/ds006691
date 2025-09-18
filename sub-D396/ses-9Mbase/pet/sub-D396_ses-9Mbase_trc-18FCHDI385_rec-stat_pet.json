@@ -1,0 +1,47 @@
+{
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "Inveon MPET",
+  "Units": "kBq/cc",
+  "TracerName": "18FCHDI-385",
+  "TracerRadionuclide": "18F",
+  "InjectedRadioactivity": 4.026230162,
+  "InjectedRadioactivityUnits": "MBq",
+  "SpecificRadioactivity": 291.0916568,
+  "SpecificRadioactivityUnits": "MBq/ug",
+  "SpecificRadioactivityMeasTime": "10:27:00",
+  "MolarActivity": 115.38,
+  "MolarActivityUnits": "GBq/umol",
+  "MolarActivityMeasTime": "10:27:00",
+  "ModeOfAdministration": "bolus",
+  "InjectedMass": 3.722737327,
+  "InjectedMassUnits": "nmol/kg",
+  "AcquisitionMode": "list-mode",
+  "ImageDecayCorrected": true,
+  "ImageDecayCorrectionTime": 0,
+  "TimeZero": "13:24:00",
+  "ScanStart": 0,
+  "InjectionStart": 0,
+  "FrameDuration": [
+    7200
+  ],
+  "FrameTimesStart": [
+    0
+  ],
+  "ReconMethodParameterLabels": [
+    "subsets",
+    "iterations"
+  ],
+  "ReconMethodParameterUnits": [
+    "none",
+    "none"
+  ],
+  "ReconMethodParameterValues": [
+    16,
+    8
+  ],
+  "ReconMethodName": "List-mode OSEM with parallax correction",
+  "AttenuationCorrection": "CT-based",
+  "ScanDate": "2022-05-18",
+  "ReconFilterType": "none",
+  "ReconFilterSize": 0
+}
