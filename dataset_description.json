@@ -1,21 +1,22 @@
 {
-  "Name": "[18F]CHDI-385 - Baseline - mass effect - test-retest - 3months",
-  "BIDSVersion": "1.6.0",
-  "EthicsApprovals": [
-    "University of Antwerp ECD 2019-39 and 2022-81"
-  ],
-  "Authors": [
-    "Franziska Zajicek",
-    "Filipe Elvas",
-    "Alan Miranda",
-    "Jordy Akkermans",
-    "Jeroen Verhaeghe",
-    "Celia Dominguez",
-    "Robert Doot",
-    "Vinod Khetarpal",
-    "Jonathan Bard",
-    "Longbin Liu",
-    "Steven Staelens",
-    "Daniele Bertoglio"
-  ]
+    "Name": "Zajicek et al. - [18F]CHDI-385 - PET imaging",
+    "BIDSVersion": "1.6.0",
+    "EthicsApprovals": [
+        "University of Antwerp ECD 2019-39 and 2022-81"
+    ],
+    "Authors": [
+        "Franziska Zajicek",
+        "Filipe Elvas",
+        "Alan Miranda",
+        "Jordy Akkermans",
+        "Jeroen Verhaeghe",
+        "Celia Dominguez",
+        "Robert Doot",
+        "Vinod Khetarpal",
+        "Jonathan Bard",
+        "Longbin Liu",
+        "Steven Staelens",
+        "Daniele Bertoglio"
+    ],
+    "License": "CC0"
 }
